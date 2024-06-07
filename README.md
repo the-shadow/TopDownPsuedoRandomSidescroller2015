@@ -3,6 +3,7 @@ Sample Code from a Project where I experimented with generating 2D tile sprite e
 
 Seeing the results of implementing basic roguelike algorithms like "Flood Fill" and "Drunkard Walk" was fun.
 My favorite portions of the project are in WorldManager.cs, WorldMap.cs, and CloudManager.cs.
+
 There are different rulesets depending on the biomes: grass, snow, desert, rugged
 
 Lots of sliders and parameters were added to adjust the likeyhood and prominence of different tiles being placed like flowers, mountains, trees, lakes, rivers being placed and so on.
